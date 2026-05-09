@@ -5,7 +5,16 @@ Diseñar un tablero que articule la gestión de eventos promocionales con la seg
 <h2 align="center">Objetivos Estratégicos</h2>
 
 <p align="center">
-  <img src="./images/objetivos_estrategicos.png"
+  <img src="Objetivos.png"
        alt="Objetivos Estratégicos"
+       width="900"/>
+</p>
+
+# Insercion de data en DTBS pasando de Bronze To Silver 
+<h2 align="center">Bronze To Silver</h2>
+
+<p align="center">
+  <img src="imagen.png"
+       alt="Bronze To Silver"
        width="900"/>
 </p>
