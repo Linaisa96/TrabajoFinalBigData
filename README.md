@@ -1,2 +1,2 @@
 # TrabajoFinalBigData
-diseñar un modelo que articule la gestión de eventos promocionales con la segmentación geográfica y comercial, permitiendo definir, ejecutar y evaluar estrategias de ventas más precisas, alineadas con las particularidades de cada segmento y orientadas a maximizar el desempeño comercial.
+Diseñar un modelo que articule la gestión de eventos promocionales con la segmentación geográfica y comercial, permitiendo definir, ejecutar y evaluar estrategias de ventas más precisas, alineadas con las particularidades de cada segmento y orientadas a maximizar el desempeño comercial.
