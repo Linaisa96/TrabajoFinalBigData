@@ -150,3 +150,73 @@ COSTA CARIBE y CALI mantienen patrones similares entre unidades y valor, indican
 
 La distribución proporcional entre unidades y valor sugiere que el valor unitario promedio es relativamente homogéneo entre zonas, sin variaciones significativas en el ticket promedio por ubicación geográfica.
        
+# Datos por Zona
+<h2 align="center">Totales Mensuales (Abril 2026)</h2>
+<img src="Totalmensuales.png"
+  MEDELLIN - Patrones Observados
+Días de Alto Desempeño:
+
+18 de abril: 3,346 unidades (pico máximo del mes)
+25 de abril: 3,177 unidades (segundo pico)
+30 de abril: 2,729 unidades (cierre fuerte)
+20 de abril: 2,327 unidades
+Días de Bajo Desempeño:
+
+7 de abril: 1,790 unidades (mínimo)
+21 de abril: 1,920 unidades
+28 de abril: 1,970 unidades
+Patrón Identificado:
+
+Volatilidad moderada: Rango de 1,790 a 3,346 unidades (variación del 87%)
+Picos en sábados/domingos: Los días 18 y 25 (probablemente fines de semana) muestran actividad máxima
+Recuperación al cierre: El día 30 muestra un repunte significativo, indicando cierre de mes fuerte
+Patrones Temporales Generales (Todas las Zonas)
+1. Efecto Fin de Semana
+Los datos sugieren picos sistemáticos los fines de semana, especialmente:
+Mayor tráfico sábados-domingos
+Menor actividad en mitad de semana (martes-miércoles)
+Recuperación los jueves-viernes
+
+2. Efecto Quincenal
+Primera quincena: Inicio moderado (días 1-7), aceleración días 8-15
+Segunda quincena: Picos más pronunciados días 18, 25
+Cierre de mes: Repunte final (días 28-30)
+
+4. Variabilidad Diaria
+Volatilidad por zona (Coeficiente de Variación estimado):
+
+MEDELLIN: Alta volatilidad (σ/μ ≈ 25-30%)
+
+BOGOTA: Volatilidad moderada (líder consistente)
+
+CALI: Baja volatilidad (más estable)
+
+COSTA CARIBE: Volatilidad media
+
+<p align="center">
+  <img src="Evolucion_temporal_por_zonas.png"
+       alt="Evolución temporal por zonas"
+       width="900"/>
+</p>
+
+# Top 15 marcas
+<h2 align="center">Top 15 marcas más vendidas</h2>
+
+<p align="center">
+  <img src="Ventas_por_marca.png"
+       alt="Bronze To Silver"
+       width="900"/>
+</p>
+
+Líderes en ambas métricas:
+
+SAMSUNG domina con 21,893 unidades y $21.0B COP, siendo la marca estrella en volumen y valor.
+
+LG ocupa segundo lugar en valor ($17.8B) con 14,070 unidades, mostrando alto ticket promedio.
+
+HISENSE destaca con 11,850 unidades generando $11.8B COP
+Alto volumen, menor valor unitario:
+
+BLACK & DECKER (15,502 unidades) y IMUSA (15,109 unidades) tienen alto volumen pero no aparecen en el top de valor, indicando productos de menor precio (pequeños electrodomésticos)
+
+Marcas tecnológicas premium: Marcas como CAIXUN, INFINIX, TCL, HP, ASUS y LENOVO aparecen en el ranking de valor pero con menor volumen, indicando productos de alto ticket (TVs, computadores, smartphones gama alta).
