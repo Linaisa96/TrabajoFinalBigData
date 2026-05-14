@@ -76,4 +76,24 @@ Cierra el Top 10 con otra oferta especial de electrónica.
        alt="Unidades Vendidas por Sublínea"
        width="900"/>
 </p>
-Los resultados muestran que PEQUENOS ELECTRODOMESTICOS lidera con 83,103 unidades vendidas, seguido por AUDIO Y VIDEO (67,845 unidades) y CELULARES Y ACCESORIOS (54,806 unidades). Las categorías con menores unidades son GRANDES ELECTRODOMESTICOS (34,250) e INFORMATICA (26,482).
+
+Los resultados muestran:
+PEQUENOS ELECTRODOMESTICOS lidera con 83,103 unidades vendidas.
+AUDIO Y VIDEO (67,845 unidades).
+CELULARES Y ACCESORIOS (54,806 unidades). 
+Las categorías con menores unidades son GRANDES ELECTRODOMESTICOS (34,250) e INFORMATICA (26,482).
+
+# Unidades Vendidas por Categoría
+<h2 align="center">Unidades Vendidas por Sublínea </h2>
+
+<p align="center">
+  <img src="Unidades_vendidas_por_categorias.png"
+       alt="Unidades Vendidas por Categorias"
+       width="900"/>
+</p>
+
+TELEVISION lidera con 53,679 unidades (20% del total)
+CELULARES en segundo lugar con 49,655 unidades (19% del total)
+COCCION ELECTRICA con 24,263 unidades (9% del total)
+REFRIGERACION y PREPARACION ALIMENTOS le siguen con 16,589 y 16,227 unidades respectivamente
+Las categorías de mayor volumen están relacionadas con entretenimiento (TV, audio) y telefonía, mientras que las categorías de garantías extendidas y calefacción tienen volúmenes mínimos.
