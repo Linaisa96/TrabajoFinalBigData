@@ -199,6 +199,38 @@ COSTA CARIBE: Volatilidad media
        width="900"/>
 </p>
 
+Insights Estratégicos Clave
+1. Concentración de Volumen
+Semana crítica: Días 18-25 de abril concentran ~30% del volumen mensual
+Fin de mes: Los últimos 3 días (28-30) muestran recuperación en todas las zonas
+Oportunidad: Optimizar inventario para estos períodos críticos
+
+2. Sincronización de Zonas
+Correlación alta: Las 4 zonas muestran picos y valles similares los mismos días
+Causa probable: Campañas promocionales nacionales simultáneas
+Implicación: El comportamiento es impulsado por estrategia corporativa centralizada, no por dinámica local
+
+3. Días de Oportunidad
+Días con volumen bajo generalizado (oportunidades de mejora):
+
+Mitad de semana (martes-miércoles)
+Primera semana del mes (días 1-7)
+Días 21-22 (valle post-pico del 18)
+Recomendación: Activar promociones específicas en días valle para suavizar la curva
+
+4. Efecto Promocional Evidente
+La sincronización de picos entre zonas el 18 de abril sugiere:
+
+Evento promocional nacional fuerte
+Probablemente relacionado con alguno de los Top 10 eventos analizados previamente
+Alta efectividad: todas las zonas respondieron simultáneamente
+
+
+5. Patrones Estacionales
+Inicio de mes (días 1-10): Arranque lento, consumidores esperando ingresos
+Media-final de mes (días 15-30): Mayor actividad, liquidez disponible post-quincena
+Cierre de mes: Repunte fuerte (urgencia por aprovechar ofertas que vencen)
+
 # Top 15 marcas
 <h2 align="center">Top 15 marcas más vendidas</h2>
 
